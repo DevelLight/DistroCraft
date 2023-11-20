@@ -6,13 +6,13 @@
 </p>
   <p align="center">
     <a href="https://github.com/TheRedstoneDEV-DE/VoiceAssistant/releases">
-      <img alt="GitHub Release" src="https://img.shields.io/github/release/theredstonedev-de/voiceassistant" />
+      <img alt="GitHub Release" src="https://img.shields.io/github/release/DevelLight/DistroCraft" />
     </a>
     <a href="https://github.com/TheRedstoneDEV-DE/VoiceAssistant/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/theredstonedev-de/voiceassistant?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/DevelLight/DistroCraft?color=0088ff" />
     </a>
     <a href="https://github.com/TheRedstoneDEV-DE/VoiceAssistant/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/theredstonedev-de/voiceassistant?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DevelLight/DistroCraft?color=0088ff" />
     </a>
     <br />
   </p>
