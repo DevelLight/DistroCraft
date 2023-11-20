@@ -1,8 +1,6 @@
-# DistroCraft
-
 
 <p align="center">
- <img width="170px" src="https://github.com/DevelLight/DistroCraft/blob/main/distrocraft.png" align="center" alt="GitHub Readme Stats" />
+ <img width="200px" src="https://github.com/DevelLight/DistroCraft/blob/main/distrocraft.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">DistroCraft</h2>
  <p align="center">DistroCraft application, written in Rust, offers a user-friendly way to customize Linux distributions according to individual preferences. Target groups are IT companies that want to configure their customer systems efficiently.</p>
 </p>
